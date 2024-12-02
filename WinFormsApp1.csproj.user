@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Hp\Downloads\3rd Semester\New folder\SE Project\Login\WinFormsApp1\WinFormsApp1\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AllUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AvailableCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GiveFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainFormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainFormUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemoveCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RentalRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RentCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReturnCar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UpdateCars.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UsersRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="DataSet1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Update="Report1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+</Project>
